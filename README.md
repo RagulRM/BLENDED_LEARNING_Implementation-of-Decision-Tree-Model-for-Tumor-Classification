@@ -31,8 +31,8 @@ To implement and evaluate a Decision Tree model to classify tumors as benign or 
 ```
 /*
 Program to  implement a Decision Tree model for tumor classification.
-Developed by: KAVIYA SHREE S
-RegisterNumber:  212222110018
+Developed by: Ragul R
+RegisterNumber:  212222100040
 */
 
 # Import the necessary libraries
