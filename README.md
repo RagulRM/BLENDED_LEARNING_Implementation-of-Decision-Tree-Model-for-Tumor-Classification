@@ -28,7 +28,7 @@ To implement and evaluate a Decision Tree model to classify tumors as benign or 
    Measure the model’s performance on the test data with relevant metrics.
 
 ## Program:
-```
+```python
 /*
 Program to  implement a Decision Tree model for tumor classification.
 Developed by: Ragul R
